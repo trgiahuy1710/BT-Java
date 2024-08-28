@@ -107,9 +107,6 @@ public class twodarray {
         } else {
             System.out.println("Khong the thuc hien phep nhan do cot cua a khac so hang cua b");
         }
-
-        
-
         scanner.close();
     }
 }
